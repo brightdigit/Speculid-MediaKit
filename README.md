@@ -4,6 +4,7 @@ _Contains_
 
 * [Product Information Document](Product_Information_and_Media_Kit.pdf)
 * [Logos](Logos)
+* [Example Usage Animated GIF](Speculid-In-Use.gif)
 * [Screenshots](Screenshots)
   * [Using the Example Xcode Project to Try Speculid](screenshots/using-example-project)
     * Example Project [Download Here](https://github.com/brightdigit/Speculid-Example/archive/master.zip):
