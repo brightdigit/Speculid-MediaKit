@@ -1,0 +1,7 @@
+{
+  "set" : "AppIcon.appiconset",
+  "remove-alpha" : true,
+  "source" : "gamepad.svg",
+  "geometry" : null,
+  "background" : "#FFFFFFFF"
+}
